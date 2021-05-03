@@ -1,0 +1,8 @@
+.first-slot {
+    color: blue; 
+    background-color: grey;
+}
+
+.first-slot:hover {
+    transform: scale(1.2);
+}
