@@ -12,3 +12,12 @@ h1 {
 #Contact {
     float: right;
 }
+
+#Home {
+    float: left;
+}
+
+#About {
+    text-align: center;
+    margin: auto;
+}
